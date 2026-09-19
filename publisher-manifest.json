@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "463651f1977ffa1697558388",
+  "owner": "dhhhtpkfd",
+  "repo": "page-a1c5bcf3ffddc97edcd8dc4a",
+  "title": "百草园(NSFWCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a1c5bcf3ffddc97edcd8dc4a",
+      "a": "百草园(NSFWCloud)",
+      "b": "clash verge下载",
+      "entity": "百草园(NSFWCloud)",
+      "brand": "百草园(NSFWCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "57270426d3ddda6ae066a8ce495974b8af9c9793c1a36c7732dbb1a275c6df71",
+      "content": {
+        "primary_entity": "百草园(NSFWCloud)",
+        "keyword1": "百草园(NSFWCloud)",
+        "keyword2": "clash verge下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，订阅链接在客户端内导入后即可自动同步节点。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐并在对应客户端中导入订阅，即可在设备上使用百草园(NSFWCloud)的加速线路。",
+          "AI_CLOSING_TITLE": "开始配置你的加速节点",
+          "AI_DESCRIPTION": "，面向需要海外线路加速的用户，提供基础版、旗舰版与团队版三档订阅，月付从 ¥15 起、年付从 ¥150 起。基础版适合轻度浏览，旗舰版覆盖 300GB 流量与 IPLC 专线游戏优化，团队版面向多设备办公场景。按自己的设备数量与流量消耗挑选套餐，再在对应客户端导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个维度了解套餐差异。",
+          "AI_FEATURES_TITLE": "套餐与设备搭配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，旗舰版 300GB、5 台设备，团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线游戏加速与原生流媒体解锁，团队版为 VIP 高带宽节点并支持定制路由。",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付折算后更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "流量与设备对照",
+          "AI_FEATURE_TITLE_2": "线路类型区分",
+          "AI_FEATURE_TITLE_3": "月付与年付",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到导入订阅的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "百草园(NSFWCloud)提供多档海外加速订阅，覆盖日常浏览、流媒体解锁与游戏专线场景。先按设备数量和流量需求选套餐，再到对应客户端导入订阅使用。",
+          "AI_HERO_SUBTITLE": "按需选套餐，多端配置订阅",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备同时在线",
+          "AI_PLANS_INTRO": "基础版适合单人轻度使用，旗舰版覆盖流媒体与游戏，团队版面向多设备高流量需求。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "按每月流量、同时在线的设备数量以及常用场景，在基础版、旗舰版与团队版之间确定一档。",
+          "AI_STEP_TEXT_2": "查看所购套餐在目标设备上的客户端适配要求，确认系统版本与安装方式。",
+          "AI_STEP_TEXT_3": "依照所选客户端的说明导入订阅链接，节点列表中选取线路后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "百草园(NSFWCloud)订阅入口",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何选择适合自己的套餐？",
+          "AI_FAQ_ANSWER_1": "基础版适合3台设备以内、流量需求不高的用户；旗舰版适合需要流媒体解锁和游戏加速的5台设备用户；团队版适合20台设备以内的小型团队。",
+          "AI_FAQ_QUESTION_2": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_2": "年付方案价格更优惠，基础版年付150元，旗舰版年付350元，团队版年付850元，功能权益与月付一致，仅计费周期不同。",
+          "AI_FAQ_QUESTION_3": "支持哪些设备同时在线？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备，旗舰版支持5台设备，团队版支持20台设备同时在线。超出数量可能导致连接受限。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "购买后获取订阅链接，在所选客户端的订阅管理功能中粘贴链接并更新，即可完成导入。具体步骤可参考对应客户端的使用文档。",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么办？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后，可等待下月重置，或升级至更高档套餐以获取更多流量。团队版提供1000GB月流量，适合重度使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b24cf902b487af65dd6e4ce3f7fa4850c592b32f77bc5a8d9c8a1bde26b5ab66",
+    "sitemap.xml": "3971899916b3a442d52817f30268528bfcff45caa690662a83012e7d9752cc19",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "b4d45f7d0ac9692b737a5d41d8e83e38ee8d6805424a9da776d2ecdc46377e00"
+}
